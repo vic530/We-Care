@@ -24,6 +24,17 @@
 <h2>Screenshot</h2>
 <img src="https://github.com/vic530/We-Care/blob/main/img/Captura%20de%20tela%202025-11-03%20051300.png?raw=true" />
 
+<div align="center">
+  <a href="<div align="center">
+  <a href="https://SEU_USUARIO.github.io/we-care" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Acessar o Projeto-1E90FF?style=for-the-badge" alt="Acessar Projeto"/>
+  </a>
+    
+</div> target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Acessar o Projeto-1E90FF?style=for-the-badge" alt="Acessar Projeto"/>
+  </a>
+</div>
+
 <h2>👨‍💻 Autor</h2>
 <p>Victor Dantas</p>
 📌 GitHub: https://github.com/vic530
